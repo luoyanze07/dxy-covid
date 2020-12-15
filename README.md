@@ -9,4 +9,5 @@
   程序适配了三个平台。分别为Windows x64，Linux x64和macOS。请注意，程序不支持任何平台的32位系统！由于我的macOS虚拟机出现了问题，macOS版本暂缓发布。Linux版本的开发环境从Deepin 15.11切换到了统信UOS，部分界面的显示效果可能有些奇怪。macOS计划在Big Sur系统中测试，大家敬请期待！ 
   
 ### 二、下载方式
-  这里提供了包括GitHub、蓝奏云和Google Drive在内的三种下载方式，可以根据自己的地理位置选择最合适的下载方式。使用过程中有问题可以在程序中的帮助栏里找到联系我的方式哟！（当然我也不一定会回，看运气啦！）
+  这里提供了包括GitHub、蓝奏云和Google Drive在内的三种下载方式，可以根据自己的地理位置选择最合适的下载方式。使用过程中有问题可以在程序中的帮助栏里找到联系我的方式哟！（当然我也不一定会回，看运气啦！）    
+  请访问[【Releases 页面】](https://github.com/luoyanze07/dxy-covid/releases)、[【蓝奏云（密码：2oba）】](https://luoyanze07.lanzous.com/b0100xsng)、[【Google Drive】](https://drive.google.com/drive/folders/1tq-k73KKhfDJZI0iZEE7XADYX5Ca84Yx?usp=sharing)以下载最新版本！
